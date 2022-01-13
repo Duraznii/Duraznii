@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duraznii
-- 👀 I’m interested in IoT, Smarthome, Voice, Conversation design, create and learn :)
-- 🌱 I’m currently learning Conversation design
+- 👀 I’m interested in create and learn, Innovation, Integrations, IoT, Smarthome, Voice, Conversation design, create and learn :)
+- 🌱 I’m currently learning business model development for AI/ML models
 - 💞️ I’m looking to collaborate on any new ideas!
 - 📫 How to reach me: https://www.linkedin.com/in/cecilia-hurtado-valdez
 
