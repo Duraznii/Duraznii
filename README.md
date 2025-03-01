@@ -1,7 +1,4 @@
 - 👋 My name is Ceci 
-- 👀 I'm interested in Social Programs, Fintech Risk Management, AI Ethics, Data Management, Technology Equality, and Public Policy.
-- 🌱 I'm learning Python 
-- 🚀 I collaborate with my co-founders to accelerate our Fintech Startup.
 - 📫 Reach me: https://www.linkedin.com/in/cecilia-hurtado-valdez
 
 <!---
